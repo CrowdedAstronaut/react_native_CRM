@@ -53,3 +53,6 @@ buck-out/
 .expo/
 web-build/
 dist/
+
+# Exercise Files
+exercise_files/
